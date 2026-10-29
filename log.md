@@ -15,3 +15,6 @@ Work log
 
 21-09-2006 Abhilash
 - Created a function for encoding the payload and crc
+
+## Symbol timing recovery comparison
+2026-10-29 | Added Python cache, virtual-environment, and test-artifact ignores.
