@@ -16,8 +16,6 @@ Work log
 21-09-2006 Abhilash
 - Created a function for encoding the payload and crc
 
-29-10-2026: Codex-assisted symbol-timing recovery project update
-
 - Added a reproducible Python simulation comparing a Gardner timing loop with a Kalman-based timing tracker.
 - Evaluated both methods on shared BPSK waveforms across five SNR, timing-offset, and clock-mismatch scenarios.
 - Recorded BER, residual timing jitter, and lock time in the results table.
