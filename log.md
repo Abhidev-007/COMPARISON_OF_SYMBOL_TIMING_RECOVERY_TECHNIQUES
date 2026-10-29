@@ -29,3 +29,4 @@ Work log
 2026-10-29 | Added the Gardner TED equation, loop behavior, and S-curve interpretation.
 2026-10-29 | Documented the phase/rate state model and shared Gardner measurement.
 2026-10-29 | Defined BER, residual jitter, lock-time thresholds, and finite-run BER caveats.
+2026-10-29 | Added the five SNR, clock-mismatch, and initial-offset test conditions.
