@@ -1,1 +1,1 @@
-# Comparison of Synchronized and Unsynchronized BPSK Reception repository
+# COMPARISON OF SYMBOL TIMING RECOVERY TECHNIQUES
