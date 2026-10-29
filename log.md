@@ -15,3 +15,26 @@ Work log
 
 21-09-2006 Abhilash
 - Created a function for encoding the payload and crc
+
+## Symbol timing recovery comparison
+2026-10-29 | Added Python cache, virtual-environment, and test-artifact ignores.
+2026-10-29 | Listed NumPy, SciPy, and Matplotlib requirements for the timing simulation.
+2026-10-29 | Added the reproducible BPSK symbol-timing simulation and Gardner/Kalman comparison.
+2026-10-29 | Added the seed, waveform settings, trial count, and channel scenarios for the saved run.
+2026-10-29 | Added aggregate BER, timing-jitter, and lock-time measurements for both methods.
+2026-10-29 | Added the generated BER and residual-jitter comparison figure.
+2026-10-29 | Added the open-loop Gardner detector response versus timing phase.
+2026-10-29 | Added a representative Gardner/Kalman phase and detector-error trace.
+2026-10-29 | Documented the simulated BPSK receiver chain and timing-study file layout.
+2026-10-29 | Added the Gardner TED equation, loop behavior, and S-curve interpretation.
+2026-10-29 | Documented the phase/rate state model and shared Gardner measurement.
+2026-10-29 | Defined BER, residual jitter, lock-time thresholds, and finite-run BER caveats.
+2026-10-29 | Added the five SNR, clock-mismatch, and initial-offset test conditions.
+2026-10-29 | Summarized the included outcomes and scoped conclusions to the tested setup.
+2026-10-29 | Listed channel, interpolation, tuning, trial-count, and hardware limitations.
+2026-10-29 | Added Gardner, Kalman timing, synchronization, and performance-measurement references.
+2026-10-29 | Documented saved configuration, run command, and output regeneration behavior.
+2026-10-29 | Added a guide to the comparison, S-curve, and tracking-trace plots.
+2026-10-29 | Updated the project README with the timing-recovery comparison overview.
+2026-10-29 | Added setup instructions, output descriptions, metric notes, and documentation links.
+2026-10-29 | Removed trailing blank lines flagged during final diff review.
