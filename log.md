@@ -32,3 +32,4 @@ Work log
 2026-10-29 | Added the five SNR, clock-mismatch, and initial-offset test conditions.
 2026-10-29 | Summarized the included outcomes and scoped conclusions to the tested setup.
 2026-10-29 | Listed channel, interpolation, tuning, trial-count, and hardware limitations.
+2026-10-29 | Added Gardner, Kalman timing, synchronization, and performance-measurement references.
