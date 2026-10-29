@@ -21,3 +21,4 @@ Work log
 2026-10-29 | Listed NumPy, SciPy, and Matplotlib requirements for the timing simulation.
 2026-10-29 | Added the reproducible BPSK symbol-timing simulation and Gardner/Kalman comparison.
 2026-10-29 | Added the seed, waveform settings, trial count, and channel scenarios for the saved run.
+2026-10-29 | Added aggregate BER, timing-jitter, and lock-time measurements for both methods.
