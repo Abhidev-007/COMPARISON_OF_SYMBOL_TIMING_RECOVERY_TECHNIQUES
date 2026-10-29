@@ -6,8 +6,8 @@ Kalman-based tracker driven by the same Gardner timing-error detector.
 
 The timing study models BPSK mapping, root-raised-cosine pulse shaping,
 fractional timing offset, sampling-clock mismatch, AWGN, matched filtering,
-timing recovery, and hard-decision scoring. The pre-existing transmitter,
-encoding, pulse-shaping, and evaluation work remains in the repository.
+timing recovery, and hard-decision scoring. Its code and results are limited to
+this symbol-timing comparison.
 
 The simulation is a focused software experiment; it does not claim to model
 the complete packet receiver or real-time DSP hardware.
