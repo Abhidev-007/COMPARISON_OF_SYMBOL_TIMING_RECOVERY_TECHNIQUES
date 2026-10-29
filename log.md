@@ -37,3 +37,4 @@ Work log
 2026-10-29 | Added a guide to the comparison, S-curve, and tracking-trace plots.
 2026-10-29 | Updated the project README with the timing-recovery comparison overview.
 2026-10-29 | Added setup instructions, output descriptions, metric notes, and documentation links.
+2026-10-29 | Removed trailing blank lines flagged during final diff review.
