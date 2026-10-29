@@ -34,3 +34,4 @@ Work log
 2026-10-29 | Listed channel, interpolation, tuning, trial-count, and hardware limitations.
 2026-10-29 | Added Gardner, Kalman timing, synchronization, and performance-measurement references.
 2026-10-29 | Documented saved configuration, run command, and output regeneration behavior.
+2026-10-29 | Added a guide to the comparison, S-curve, and tracking-trace plots.
