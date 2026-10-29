@@ -27,3 +27,4 @@ Work log
 2026-10-29 | Added a representative Gardner/Kalman phase and detector-error trace.
 2026-10-29 | Documented the simulated BPSK receiver chain and timing-study file layout.
 2026-10-29 | Added the Gardner TED equation, loop behavior, and S-curve interpretation.
+2026-10-29 | Documented the phase/rate state model and shared Gardner measurement.
