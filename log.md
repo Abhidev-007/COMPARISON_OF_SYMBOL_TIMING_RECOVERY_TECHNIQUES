@@ -24,3 +24,4 @@ Work log
 2026-10-29 | Added aggregate BER, timing-jitter, and lock-time measurements for both methods.
 2026-10-29 | Added the generated BER and residual-jitter comparison figure.
 2026-10-29 | Added the open-loop Gardner detector response versus timing phase.
+2026-10-29 | Added a representative Gardner/Kalman phase and detector-error trace.
