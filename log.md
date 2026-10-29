@@ -20,3 +20,4 @@ Work log
 2026-10-29 | Added Python cache, virtual-environment, and test-artifact ignores.
 2026-10-29 | Listed NumPy, SciPy, and Matplotlib requirements for the timing simulation.
 2026-10-29 | Added the reproducible BPSK symbol-timing simulation and Gardner/Kalman comparison.
+2026-10-29 | Added the seed, waveform settings, trial count, and channel scenarios for the saved run.

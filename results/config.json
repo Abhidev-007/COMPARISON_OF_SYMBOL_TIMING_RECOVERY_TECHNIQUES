@@ -1,0 +1,42 @@
+{
+  "config": {
+    "sps": 8,
+    "n_symbols": 5000,
+    "beta": 0.35,
+    "span": 10,
+    "loop_bw": 0.018,
+    "damping": 0.707,
+    "kf_phase_q": 2e-05,
+    "kf_rate_q": 2e-08,
+    "seed": 20261029
+  },
+  "trials_per_scenario": 8,
+  "scenarios": [
+    [
+      0,
+      0,
+      0.35
+    ],
+    [
+      4,
+      0,
+      -0.4
+    ],
+    [
+      8,
+      100,
+      0.3
+    ],
+    [
+      12,
+      -100,
+      -0.25
+    ],
+    [
+      18,
+      250,
+      0.45
+    ]
+  ],
+  "note": "Illustrative baseband AWGN simulation; compare timing algorithms under identical waveforms."
+}
